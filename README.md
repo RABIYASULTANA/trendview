@@ -49,12 +49,12 @@ The app is built using **Flutter** with state management handled through **Provi
    - Clone the repository using the following commands:
 
      ```bash
-     git clone https://github.com/hussainkazarani/trendview.git
+     git clone https://github.com/RABIYASULTANA/trendview.git
      cd trendview
      ```
 
    - Alternatively, download the zip file:
-     - Download from [here](https://github.com/hussainkazarani/trendview/archive/refs/heads/main.zip).
+     - Download from [here](https://github.com/RABIYASULTANA/trendview/archive/refs/heads/main.zip).
      - Unextract the zip file.
      - Navigate to `lib/utils/secrets.dart` and enter your API key as described above.
 
